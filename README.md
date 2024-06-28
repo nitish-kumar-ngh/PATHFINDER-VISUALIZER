@@ -20,15 +20,12 @@ To run Pathfinder Visualization locally, follow these steps:
    git clone https://github.com/nitish-kumar-ngh/PATHFINDER-VISUALIZER.git
 
 2. **Navigate to the Project directory:**
-   ```bash
-  cd PATHFINDER-VISUALIZER
+ ```bash cd PATHFINDER-VISUALIZER
 
 3. **Install dependencies: Ensure you have Node.js and npm installed:**
-   ```bash
-  npm install
+   ```bash npm install
 4. **Start the application:**
-```bash
-  npm start
+  ```bash npm start
 5. **<h1>Access the application </h1>in your browser at 'http://localhost:3000/Pathfinder':**
 ## Technologies Used
 
