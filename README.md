@@ -3,7 +3,7 @@
 ## Overview
 Pathfinder Visualization is a tool designed to visualize pathfinding algorithms in action. It provides an interactive interface to understand how algorithms like Dijkstra's, A*, and others find paths in different scenarios.
 
-![Pathfinder Visualization Demo](demo.gif)
+
 
 ## Features
 - **Interactive Visualization:** Watch as paths are calculated in real-time on a grid-based map.
@@ -20,19 +20,13 @@ To run Pathfinder Visualization locally, follow these steps:
    git clone https://github.com/nitish-kumar-ngh/PATHFINDER-VISUALIZER.git
 
 2. **Navigate to the Project directory:**
-   ```bash
   cd PATHFINDER-VISUALIZER
 
 3. **Install dependencies: Ensure you have Node.js and npm installed:**
-   ```bash
   npm install
 4. **Start the application:**
-   ```bash
   npm start
-
 5. **Access the application in your browser at 'http://localhost:3000/Pathfinder':**
-
-
 ## Technologies Used
 
 This project utilizes the following technologies:
