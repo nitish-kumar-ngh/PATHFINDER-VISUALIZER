@@ -20,13 +20,16 @@ To run Pathfinder Visualization locally, follow these steps:
    git clone https://github.com/nitish-kumar-ngh/PATHFINDER-VISUALIZER.git
 
 2. **Navigate to the Project directory:**
+   ```bash
   cd PATHFINDER-VISUALIZER
 
 3. **Install dependencies: Ensure you have Node.js and npm installed:**
+   ```bash
   npm install
 4. **Start the application:**
+```bash
   npm start
-5. **Access the application in your browser at 'http://localhost:3000/Pathfinder':**
+5. **<h1>Access the application </h1>in your browser at 'http://localhost:3000/Pathfinder':**
 ## Technologies Used
 
 This project utilizes the following technologies:
@@ -39,12 +42,12 @@ This project utilizes the following technologies:
   - **Breadth-First Search (BFS):** Finds the shortest path in an unweighted grid.
   - **Depth-First Search (DFS):** Explores as far as possible along each branch before backtracking.
   - **Dijkstra's Algorithm:** Finds the shortest path with non-negative weights.
-  - **A* Search Algorithm:** Combines Dijkstra's algorithm with a heuristic to improve performance.
+  - **A {*} Search Algorithm:** Combines Dijkstra's algorithm with a heuristic to improve performance.
 - **Randomized Prim's Algorithm:** Used for maze generation, creating complex environments for pathfinding algorithms to navigate.
 
 
 
-The project structure and architecture are designed to provide a clear visualization of pathfinding algorithms in action, offering users an interactive and educational experience.
+**The project structure and architecture are designed to provide a clear visualization of pathfinding algorithms in action, offering users an interactive and educational experience.**
 
 
 
